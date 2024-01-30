@@ -1,0 +1,4 @@
+I have only used git in 2 situations. The first is during labs
+where we would use either wget or git. The second is during 
+my senior project, but I used the Github desktop app which did
+most of the changes automatically.
